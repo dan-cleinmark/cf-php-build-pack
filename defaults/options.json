@@ -22,5 +22,6 @@
     "PHP_MODULES_PATTERN": "{DOWNLOAD_URL}/php/{PHP_VERSION}/php-{MODULE_NAME}-{PHP_VERSION}.tar.gz",
     "PHP_MODULES_STRIP": "true",
     "PHP_EXTENSIONS": [ "bz2", "zlib", "curl", "mcrypt"],
-    "ZEND_EXTENSIONS": []
+    "ZEND_EXTENSIONS": [],
+    "BP_DEBUG": "true"
 }

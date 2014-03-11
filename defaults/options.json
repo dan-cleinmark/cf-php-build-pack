@@ -1,6 +1,6 @@
 {
     "CACHE_HASH_ALGORITHM": "sha1",
-    "DOWNLOAD_URL": "https://dl.dropboxusercontent.com/u/186123235/cf-php-buildpack",
+    "DOWNLOAD_URL": "http://10.32.97.254/git/other",
     "WEB_SERVER": "httpd",
     "ADMIN_EMAIL": "admin@localhost",
     "HTTPD_VERSION": "2.4.7",
